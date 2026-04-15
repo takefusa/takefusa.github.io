@@ -14,7 +14,7 @@ She has also served as a team principal of
 Her research interests are parallel distributed computing, HPC, Grid, Cloud, and IoT. 
 
 ## Research & Development
-### Research Project
+### Research Projects
 - [ZT-IoT](https://zt-iot.nii.ac.jp/en/)
 - [TriniTEE](https://cradsec.rois.ac.jp/en/index.html)
 
