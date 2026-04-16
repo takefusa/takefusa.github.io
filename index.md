@@ -4,6 +4,8 @@ layout: default
 
 # Atsuko Takefusa / 竹房 あつ子
 
+![Atsuko Takefusa](/assets/takefusa_atsuko.jpg)
+
 ## About Me
 Atsuko Takefusa, Ph.D. is a professor at 
 [the National Institute of Informatics (NII)](https://www.nii.ac.jp/) and
