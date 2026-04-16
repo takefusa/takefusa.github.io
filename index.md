@@ -4,7 +4,7 @@ layout: default
 
 # Atsuko Takefusa / 竹房 あつ子
 
-![Atsuko Takefusa](/assets/takefusa_atsuko.jpg)
+![Atsuko Takefusa](/assets/takefusa_atsuko.jpeg)
 
 ## About Me
 Atsuko Takefusa, Ph.D. is a professor at 
