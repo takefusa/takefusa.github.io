@@ -1,7 +1,7 @@
 title: Atsuko Takefusa Homepage
 description: ""
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache  # これを追記
+
